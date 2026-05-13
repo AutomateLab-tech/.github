@@ -1,31 +1,27 @@
 # AutomateLab
 
-AI automation tools and tutorials - we build n8n workflows, MCP servers, and Ghost integrations so you can ship faster.
+AI automation tools and services - we build AI workflows and custom automations so you can ship faster.
 
-Visit: **[automatelab.tech](https://automatelab.tech)**
-
----
+Visit: [automatelab.tech](https://automatelab.tech)
 
 ## Tools and repos
 
-**[n8n-mcp](https://github.com/AutomateLab-tech/n8n-mcp)** - MCP server for n8n: generate workflows, lint, diagnose failed executions, and drive live n8n instances from an AI agent.
+[n8n-mcp](https://github.com/AutomateLab-tech/n8n-mcp) - MCP server for n8n: generate workflows, lint, diagnose failed executions, and drive live n8n instances from an AI agent.
 
-**[publishing-skills](https://github.com/AutomateLab-tech/publishing-skills)** - Three composable Claude skills for end-to-end long-tail SEO blog publishing on Ghost CMS: topic research, draft and publish, SVG figure generation.
+[publishing-skills](https://github.com/AutomateLab-tech/publishing-skills) - Three composable Claude skills for end-to-end long-tail SEO blog publishing on Ghost CMS: topic research, draft and publish, SVG figure generation.
 
-**[agency-os](https://github.com/AutomateLab-tech/agency-os)** - Run your work like an AI agency from a single Notion board. Notion-backed task dispatch for Claude Code agents.
+[agency-os](https://github.com/AutomateLab-tech/agency-os) - Run your work like an AI agency from a single Notion board. Notion-backed task dispatch for Claude Code agents.
 
-**[n8n-nodes-catalog](https://github.com/AutomateLab-tech/n8n-nodes-catalog)** - Monthly-updated catalog of n8n node metadata, extracted from upstream and published as a Hugging Face dataset.
+[n8n-nodes-catalog](https://github.com/AutomateLab-tech/n8n-nodes-catalog) - Monthly-updated catalog of n8n node metadata, extracted from upstream and published as a Hugging Face dataset.
 
-**[saas-webhook-catalog](https://github.com/AutomateLab-tech/saas-webhook-catalog)** - Structured catalog of SaaS webhook schemas for use in n8n workflows and automation tooling.
-
----
+[saas-webhook-catalog](https://github.com/AutomateLab-tech/saas-webhook-catalog) - Structured catalog of SaaS webhook schemas for use in n8n workflows and automation tooling.
 
 ## Datasets on Hugging Face
 
-- **[automatelab/n8n-nodes-catalog](https://huggingface.co/datasets/automatelab/n8n-nodes-catalog)** - Full metadata for every n8n node, updated monthly.
+[automatelab/n8n-nodes-catalog](https://huggingface.co/datasets/automatelab/n8n-nodes-catalog) - Full metadata for every n8n node, updated monthly.
+
+[automatelab/saas-webhook-catalog](https://huggingface.co/datasets/automatelab/saas-webhook-catalog) - Structured SaaS webhook schemas for n8n workflows and automation tooling.
 
 ---
 
-## Blog
-
-Long-tail tutorials on n8n, MCP, Ghost, and AI automation at **[automatelab.tech](https://automatelab.tech)**.
+[Products](https://automatelab.tech/products/) | [Services](https://automatelab.tech/services/) | [Tools](https://automatelab.tech/tools/) | [Blog](https://automatelab.tech/)
