@@ -6,13 +6,13 @@ Visit: [automatelab.tech](https://automatelab.tech)
 
 ## Tools and repos
 
-[n8n-mcp](https://github.com/AutomateLab-tech/n8n-mcp) - MCP server for n8n: generate workflows, lint, diagnose failed executions, and drive live n8n instances from an AI agent.
+[agency-os](https://github.com/AutomateLab-tech/agency-os) - Run your work like an AI agency from a single Notion board. Notion-backed task dispatch for Claude Code agents.
 
 [ai-seo](https://github.com/AutomateLab-tech/ai-seo) - AI Citation Toolkit: audit, score, and rewrite web pages for AI-citation eligibility. AEO/GEO/LLM visibility for any MCP client.
 
 [publishing-skills](https://github.com/AutomateLab-tech/publishing-skills) - Three composable Claude skills for end-to-end long-tail SEO blog publishing on Ghost CMS: topic research, draft and publish, SVG figure generation.
 
-[agency-os](https://github.com/AutomateLab-tech/agency-os) - Run your work like an AI agency from a single Notion board. Notion-backed task dispatch for Claude Code agents.
+[n8n-mcp](https://github.com/AutomateLab-tech/n8n-mcp) - MCP server for n8n: generate workflows, lint, diagnose failed executions, and drive live n8n instances from an AI agent.
 
 [n8n-nodes-catalog](https://github.com/AutomateLab-tech/n8n-nodes-catalog) - Monthly-updated catalog of n8n node metadata, extracted from upstream and published as a Hugging Face dataset.
 
