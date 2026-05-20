@@ -16,8 +16,6 @@ Visit: [automatelab.tech](https://automatelab.tech)
 
 [n8n-nodes-catalog](https://github.com/AutomateLab-tech/n8n-nodes-catalog) - Monthly-updated catalog of n8n node metadata, extracted from upstream and published as a Hugging Face dataset.
 
-[saas-webhook-catalog](https://github.com/AutomateLab-tech/saas-webhook-catalog) - Structured catalog of SaaS webhook schemas for use in n8n workflows and automation tooling.
-
 ## Datasets on Hugging Face
 
 [automatelab/n8n-nodes-catalog](https://huggingface.co/datasets/automatelab/n8n-nodes-catalog) - Full metadata for every n8n node, updated monthly.
