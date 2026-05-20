@@ -16,11 +16,15 @@ Visit: [automatelab.tech](https://automatelab.tech)
 
 [n8n-nodes-catalog](https://github.com/AutomateLab-tech/n8n-nodes-catalog) - Monthly-updated catalog of n8n node metadata, extracted from upstream and published as a Hugging Face dataset.
 
+[mcp-tool-catalog](https://github.com/AutomateLab-tech/mcp-tool-catalog) - Monthly machine-introspected catalog of MCP servers and their tools, published as a Hugging Face dataset.
+
 ## Datasets on Hugging Face
 
 [automatelab/n8n-nodes-catalog](https://huggingface.co/datasets/automatelab/n8n-nodes-catalog) - Full metadata for every n8n node, updated monthly.
 
 [automatelab/saas-webhook-catalog](https://huggingface.co/datasets/automatelab/saas-webhook-catalog) - Structured SaaS webhook schemas for n8n workflows and automation tooling.
+
+[automatelab/mcp-servers-tool-catalog](https://huggingface.co/datasets/automatelab/mcp-servers-tool-catalog) - Full metadata for every MCP server and its tools, updated monthly.
 
 ---
 
