@@ -10,6 +10,8 @@ Visit: [automatelab.tech](https://automatelab.tech)
 
 [ai-seo](https://github.com/AutomateLab-tech/ai-seo) - AI Citation Toolkit: audit, score, and rewrite web pages for AI-citation eligibility. AEO/GEO/LLM visibility for any MCP client.
 
+[citation-intelligence](https://github.com/AutomateLab-tech/citation-intelligence) - MCP server for measuring LLM citation visibility across Perplexity, Claude, ChatGPT, Gemini, Bing, and Google AI Overviews. BYO keys, no telemetry.
+
 [publishing-skills](https://github.com/AutomateLab-tech/publishing-skills) - Three composable Claude skills for end-to-end long-tail SEO blog publishing on Ghost CMS: topic research, draft and publish, SVG figure generation.
 
 [content-distribution-mcp](https://github.com/AutomateLab-tech/content-distribution-mcp) - Multi-channel content distribution MCP server. Auto-publish to DEV.to, Hashnode, GitHub Discussions, Reddit, Bluesky; browser-fallback for Medium, LinkedIn, Twitter/X.
