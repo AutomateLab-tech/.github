@@ -8,11 +8,13 @@ Visit: [automatelab.tech](https://automatelab.tech)
 
 [agency-os](https://github.com/AutomateLab-tech/agency-os) - Run your work like an AI agency from a single Notion board. Notion-backed task dispatch for Claude Code agents.
 
+[publishing-skills](https://github.com/AutomateLab-tech/publishing-skills) - Three composable Claude skills for end-to-end long-tail SEO blog publishing on Ghost CMS: topic research, draft and publish, SVG figure generation.
+
 [ai-seo](https://github.com/AutomateLab-tech/ai-seo) - AI Citation Toolkit: audit, score, and rewrite web pages for AI-citation eligibility. AEO/GEO/LLM visibility for any MCP client.
 
-[citation-intelligence](https://github.com/AutomateLab-tech/citation-intelligence) - MCP server for measuring LLM citation visibility across Perplexity, Claude, ChatGPT, Gemini, Bing, and Google AI Overviews. BYO keys, no telemetry.
+[seo-performance-mcp](https://github.com/AutomateLab-tech/seo-performance-mcp) - A MCP server that turns your scattered SEO and analytics data into one clear verdict per URL. Plug it into Claude, Cursor, or any MCP-aware client and ask: "Which three posts should I update this week?" - and get an answer backed by hard numbers.
 
-[publishing-skills](https://github.com/AutomateLab-tech/publishing-skills) - Three composable Claude skills for end-to-end long-tail SEO blog publishing on Ghost CMS: topic research, draft and publish, SVG figure generation.
+[citation-intelligence](https://github.com/AutomateLab-tech/citation-intelligence) - MCP server for measuring LLM citation visibility across Perplexity, Claude, ChatGPT, Gemini, Bing, and Google AI Overviews. BYO keys, no telemetry.
 
 [content-distribution-mcp](https://github.com/AutomateLab-tech/content-distribution-mcp) - Multi-channel content distribution MCP server. Auto-publish to DEV.to, Hashnode, GitHub Discussions, Reddit, Bluesky; browser-fallback for Medium, LinkedIn, Twitter/X.
 
