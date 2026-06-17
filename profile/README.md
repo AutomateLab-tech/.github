@@ -14,6 +14,8 @@ Visit: [automatelab.tech](https://automatelab.tech)
 
 [ai-seo-magic-button](https://github.com/AutomateLab-tech/ai-seo-magic-button) - The one-command magic button for AI-SEO. Point it at a site, get a whole-site AEO/GEO audit plus a ready-to-run plan your agent executes. Orchestrates the ai-seo and citation-intelligence MCPs.
 
+[ai-seo-page-auditor-chrome](https://github.com/AutomateLab-tech/ai-seo-page-auditor-chrome) - Chrome extension that audits the active tab for AI-citation readiness. Same 43 AEO/GEO checks as the web tool; per-tab grade badge; deep-link to the full report on automatelab.tech.
+
 [seo-performance-mcp](https://github.com/AutomateLab-tech/seo-performance-mcp) - A MCP server that turns your scattered SEO and analytics data into one clear verdict per URL. Plug it into Claude, Cursor, or any MCP-aware client and ask: "Which three posts should I update this week?" - and get an answer backed by hard numbers.
 
 [citation-intelligence](https://github.com/AutomateLab-tech/citation-intelligence) - MCP server for measuring LLM citation visibility across Perplexity, Claude, ChatGPT, Gemini, Bing, and Google AI Overviews. BYO keys, no telemetry.
