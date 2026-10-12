@@ -1,41 +1,36 @@
 # AutomateLab
 
-AI automation tools and services - we build AI workflows and custom automations so you can ship faster.
+Tools for inspecting, building and maintaining AI automation.
 
-Visit: [automatelab.tech](https://automatelab.tech)
+[Products](https://automatelab.tech/products/) | [Web tools](https://automatelab.tech/tools/) | [Product updates](https://automatelab.tech/updates/)
 
-## Tools and repos
+## Products and datasets
 
-[agency-os](https://github.com/AutomateLab-tech/agency-os) - Run your work like an AI agency from a single Notion board. Notion-backed task dispatch for Claude Code agents.
+- [AI-SEO MCP](https://github.com/AutomateLab-tech/ai-seo-mcp) - Page audits, structured-data checks and citation-readiness diagnostics.
+- [n8n MCP](https://github.com/AutomateLab-tech/n8n-mcp) - Workflow generation, linting and execution inspection for n8n.
+- [Citation Intelligence](https://github.com/AutomateLab-tech/citation-intelligence) - Observed citation reports with explicit provider errors and provenance.
+- [AI-SEO Magic Button](https://github.com/AutomateLab-tech/ai-seo-magic-button) - A site audit plan shared by CLI, skill and MCP entry points.
+- [Publishing Skills](https://github.com/AutomateLab-tech/publishing-skills) - Four skills for research, writing, figures and editorial scheduling.
+- [Agency OS](https://github.com/AutomateLab-tech/agency-os) - A Notion board for planning, approving and dispatching agent work.
+- [Content Distribution MCP](https://github.com/AutomateLab-tech/content-distribution-mcp) - Content publishing, scheduling, delivery status and retries.
+- [SEO Performance MCP](https://github.com/AutomateLab-tech/seo-performance-mcp) - Search and analytics reports with explicit missing-data limits.
+- [AI-SEO Page Auditor](https://github.com/AutomateLab-tech/ai-seo-page-auditor-chrome) - An unpacked Chrome extension for inspecting the active page.
+- [n8n Nodes Catalog](https://github.com/AutomateLab-tech/n8n-nodes-catalog) - Pinned n8n node metadata with upstream attribution.
+- [MCP Servers Catalog](https://github.com/AutomateLab-tech/mcp-servers-catalog) - A pinned curated MCP server list; no runtime or security endorsement.
+- [MCP Tool Catalog](https://github.com/AutomateLab-tech/mcp-tool-catalog) - Recorded MCP tool schemas with successful and failed probe coverage.
+- [SaaS Webhooks Catalog](https://github.com/AutomateLab-tech/saas-webhook-catalog) - Webhook event metadata with explicit source-verification gaps.
+- [Automation Error Index](https://github.com/AutomateLab-tech/automation-error-index) - Error records with source links and separate review status.
 
-[publishing-skills](https://github.com/AutomateLab-tech/publishing-skills) - Three composable Claude skills for end-to-end long-tail SEO blog publishing on Ghost CMS: topic research, draft and publish, SVG figure generation.
+## Web tools
 
-[ai-seo](https://github.com/AutomateLab-tech/ai-seo) - AI Citation Toolkit: audit, score, and rewrite web pages for AI-citation eligibility. AEO/GEO/LLM visibility for any MCP client.
+- [AI-SEO Checker](https://automatelab.tech/tools/ai-seo-checker/)
+- [n8n Workflow Validator](https://automatelab.tech/tools/n8n-workflow-validator/)
+- [MCP Config Generator](https://automatelab.tech/tools/mcp-config-generator/)
+- [AI Overview Checker](https://automatelab.tech/tools/ai-overview-checker/)
+- [FAQ Schema Audit](https://automatelab.tech/tools/faq-schema-audit/)
+- [GPTBot Check](https://automatelab.tech/tools/gptbot-check/)
+- [llms.txt Validator](https://automatelab.tech/tools/llms-txt-validator/)
+- [n8n Cost Calculator](https://automatelab.tech/tools/n8n-cost-calculator/)
+- [Automation Pricing Comparison](https://automatelab.tech/tools/zapier-vs-make-vs-n8n-pricing/)
 
-[ai-seo-magic-button](https://github.com/AutomateLab-tech/ai-seo-magic-button) - The one-command magic button for AI-SEO. Point it at a site, get a whole-site AEO/GEO audit plus a ready-to-run plan your agent executes. Orchestrates the ai-seo and citation-intelligence MCPs.
-
-[ai-seo-page-auditor-chrome](https://github.com/AutomateLab-tech/ai-seo-page-auditor-chrome) - Chrome extension that audits the active tab for AI-citation readiness. Same 43 AEO/GEO checks as the web tool; per-tab grade badge; deep-link to the full report on automatelab.tech.
-
-[seo-performance-mcp](https://github.com/AutomateLab-tech/seo-performance-mcp) - A MCP server that turns your scattered SEO and analytics data into one clear verdict per URL. Plug it into Claude, Cursor, or any MCP-aware client and ask: "Which three posts should I update this week?" - and get an answer backed by hard numbers.
-
-[citation-intelligence](https://github.com/AutomateLab-tech/citation-intelligence) - MCP server for measuring LLM citation visibility across Perplexity, Claude, ChatGPT, Gemini, Bing, and Google AI Overviews. BYO keys, no telemetry.
-
-[content-distribution-mcp](https://github.com/AutomateLab-tech/content-distribution-mcp) - Multi-channel content distribution MCP server. Auto-publish to DEV.to, Hashnode, GitHub Discussions, Reddit, Bluesky; browser-fallback for Medium, LinkedIn, Twitter/X.
-
-[n8n-mcp](https://github.com/AutomateLab-tech/n8n-mcp) - MCP server for n8n: generate workflows, lint, diagnose failed executions, and drive live n8n instances from an AI agent.
-
-[n8n-nodes-catalog](https://github.com/AutomateLab-tech/n8n-nodes-catalog) - Monthly-updated catalog of n8n node metadata, extracted from upstream and published as a Hugging Face dataset.
-
-[mcp-tool-catalog](https://github.com/AutomateLab-tech/mcp-tool-catalog) - Monthly machine-introspected catalog of MCP servers and their tools, published as a Hugging Face dataset.
-
-## Datasets on Hugging Face
-
-[automatelab/n8n-nodes-catalog](https://huggingface.co/datasets/automatelab/n8n-nodes-catalog) - Full metadata for every n8n node, updated monthly.
-
-[automatelab/saas-webhook-catalog](https://huggingface.co/datasets/automatelab/saas-webhook-catalog) - Structured SaaS webhook schemas for n8n workflows and automation tooling.
-
-[automatelab/mcp-servers-tool-catalog](https://huggingface.co/datasets/automatelab/mcp-servers-tool-catalog) - Full metadata for every MCP server and its tools, updated monthly.
-
----
-
-[Products](https://automatelab.tech/products/) | [Services](https://automatelab.tech/services/) | [Tools](https://automatelab.tech/tools/) | [Blog](https://automatelab.tech/)
+Source repositories and dataset cards document installation, licenses, versions and limits. Audit scores describe tool checks; they do not guarantee search rankings or AI citations.
