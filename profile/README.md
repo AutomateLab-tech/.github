@@ -33,4 +33,8 @@ Tools for inspecting, building and maintaining AI automation.
 - [n8n Cost Calculator](https://automatelab.tech/tools/n8n-cost-calculator/)
 - [Automation Pricing Comparison](https://automatelab.tech/tools/zapier-vs-make-vs-n8n-pricing/)
 
+## Also from us: ArchiPlan
+
+We are also building [ArchiPlan](https://archiplan.io), AI production scheduling for small and mid-sized manufacturers. Its open-source connectors for Odoo and ERPNext, and upcoming MCP servers, live at [github.com/ArchiPlan-io](https://github.com/ArchiPlan-io).
+
 Source repositories and dataset cards document installation, licenses, versions and limits. Audit scores describe tool checks; they do not guarantee search rankings or AI citations.
